@@ -35,5 +35,3 @@ for i in dicionario:
 
 print('altura' in dicionario)   # Quando a chave existe no dicionário, retorna True
 print('peso' in dicionario)     # Quando a chave não existe no dicionário, retorna False
-
-print('Raphael Lyra Perazzo' in dicionario)
